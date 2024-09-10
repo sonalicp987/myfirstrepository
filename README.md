@@ -1,6 +1,6 @@
 # myfirstrepository
 devOps
-jrnkim tool
+jenkim tool
 saleneum
 teraform
 ansible
